@@ -33,23 +33,23 @@ In order to be operating system, IDE and language agnostic, this document focuss
 </th>
 <tr>
   <td>Repo / Repository</td>
-  <td>Definition</td>
+  <td>Project folder</td>
 </tr>
 <tr>
   <td>Public repo</td>
-  <td>Definition</td>
+  <td>Project anyone can view</td>
 </tr>
 <tr>
   <td>Private repo</td>
-  <td>Definition</td>
+  <td>Project only you (or invited people) can view</td>
 </tr>
 <tr>
   <td>Push</td>
-  <td>Definition</td>
+  <td>Upload changed version</td>
 </tr>
 <tr>
   <td>Pull</td>
-  <td>Definition</td>
+  <td>Download current version</td>
 </tr>
 <tr>
   <td>Pull request</td>
@@ -57,7 +57,7 @@ In order to be operating system, IDE and language agnostic, this document focuss
 </tr>
 <tr>
   <td>Commit</td>
-  <td>Definition</td>
+  <td>Is used when you want to save that version of the file to then be pushed to github.</td>
 </tr>
 <tr>
   <td>Diff</td>
@@ -73,7 +73,7 @@ In order to be operating system, IDE and language agnostic, this document focuss
 </tr>
 <tr>
   <td>Fork</td>
-  <td>Definition</td>
+  <td>Creates a copy of a persons repo</td>
 </tr>
 <tr>
   <td>History / Commit log</td>
@@ -85,7 +85,7 @@ In order to be operating system, IDE and language agnostic, this document focuss
 </tr>
 <tr>
   <td>origin</td>
-  <td>Definition</td>
+  <td>Default name for GitHub</td>
 </tr>
 <tr>
   <td>master</td>
@@ -97,7 +97,7 @@ In order to be operating system, IDE and language agnostic, this document focuss
 </tr>
 <tr>
   <td>Octocat</td>
-  <td>Definition</td>
+  <td>GitHub's mascot.</td>
 </tr>
 </table>
 
@@ -340,7 +340,6 @@ Explore the many other features of the web-based platforms (links can be found a
 ## Help improve this document
 
 Have you spotted a typo, spelling error, inaccuracy or think this document is missing a key aspect of Git? Read on to find out how you can fix and contribute, using Git of course!
-
 
 ### Forking projects
 
