@@ -33,23 +33,23 @@ In order to be operating system, IDE and language agnostic, this document focuss
 </th>
 <tr>
   <td>Repo / Repository</td>
-  <td>Definition</td>
+  <td>Project folder</td>
 </tr>
 <tr>
   <td>Public repo</td>
-  <td>Definition</td>
+  <td>Project anyone can view</td>
 </tr>
 <tr>
   <td>Private repo</td>
-  <td>Definition</td>
+  <td>Project only you (or invited people) can view</td>
 </tr>
 <tr>
   <td>Push</td>
-  <td>Definition</td>
+  <td>Upload changed version</td>
 </tr>
 <tr>
   <td>Pull</td>
-  <td>Definition</td>
+  <td>Download current version</td>
 </tr>
 <tr>
   <td>Pull request</td>
@@ -97,7 +97,7 @@ In order to be operating system, IDE and language agnostic, this document focuss
 </tr>
 <tr>
   <td>Octocat</td>
-  <td>Definition</td>
+  <td>GitHub mascott</td>
 </tr>
 </table>
 
