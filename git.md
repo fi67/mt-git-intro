@@ -57,7 +57,11 @@ In order to be operating system, IDE and language agnostic, this document focuss
 </tr>
 <tr>
   <td>Commit</td>
+<<<<<<< HEAD
   <td>Is used when you want to save that version of the file to then be pushed to github.</td>
+=======
+  <td>Committing a change in a document</td>
+>>>>>>> 55633fba092bf92b1672a7e2c2a8ced0aba6e7c4
 </tr>
 <tr>
   <td>Diff</td>
@@ -73,7 +77,11 @@ In order to be operating system, IDE and language agnostic, this document focuss
 </tr>
 <tr>
   <td>Fork</td>
+<<<<<<< HEAD
   <td>Linking the  repository to another user</td>
+=======
+  <td>Creates a copy of a persons repo</td>
+>>>>>>> 55633fba092bf92b1672a7e2c2a8ced0aba6e7c4
 </tr>
 <tr>
   <td>History / Commit log</td>
@@ -85,7 +93,7 @@ In order to be operating system, IDE and language agnostic, this document focuss
 </tr>
 <tr>
   <td>origin</td>
-  <td>Definition</td>
+  <td>Default name for GitHub</td>
 </tr>
 <tr>
   <td>master</td>
