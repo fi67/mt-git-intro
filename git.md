@@ -33,23 +33,23 @@ In order to be operating system, IDE and language agnostic, this document focuss
 </th>
 <tr>
   <td>Repo / Repository</td>
-  <td>Definition</td>
+  <td>A are of all of the files that you have saved. e.g.html files.</td>
 </tr>
 <tr>
   <td>Public repo</td>
-  <td>Definition</td>
+  <td>An area of files that everyone is able to view.</td>
 </tr>
 <tr>
   <td>Private repo</td>
-  <td>Definition</td>
+  <td>An area of files that only you are able to view.</td>
 </tr>
 <tr>
   <td>Push</td>
-  <td>Definition</td>
+  <td>Is used when you have committed a file and want to push it into your github repository.</td>
 </tr>
 <tr>
   <td>Pull</td>
-  <td>Definition</td>
+  <td>Is used when you want to pull a new version from your repository.</td>
 </tr>
 <tr>
   <td>Pull request</td>
@@ -57,7 +57,7 @@ In order to be operating system, IDE and language agnostic, this document focuss
 </tr>
 <tr>
   <td>Commit</td>
-  <td>Definition</td>
+  <td>Is used when you want to save that version of the file to then be pushed to github.</td>
 </tr>
 <tr>
   <td>Diff</td>
@@ -97,7 +97,7 @@ In order to be operating system, IDE and language agnostic, this document focuss
 </tr>
 <tr>
   <td>Octocat</td>
-  <td>Definition</td>
+  <td>GitHubs mascot.</td>
 </tr>
 </table>
 
