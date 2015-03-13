@@ -33,23 +33,23 @@ In order to be operating system, IDE and language agnostic, this document focuss
 </th>
 <tr>
   <td>Repo / Repository</td>
-  <td>A are of all of the files that you have saved. e.g.html files.</td>
+  <td>Project folder</td>
 </tr>
 <tr>
   <td>Public repo</td>
-  <td>An area of files that everyone is able to view.</td>
+  <td>Project anyone can view</td>
 </tr>
 <tr>
   <td>Private repo</td>
-  <td>An area of files that only you are able to view.</td>
+  <td>Project only you (or invited people) can view</td>
 </tr>
 <tr>
   <td>Push</td>
-  <td>Is used when you have committed a file and want to push it into your github repository.</td>
+  <td>Upload changed version</td>
 </tr>
 <tr>
   <td>Pull</td>
-  <td>Is used when you want to pull a new version from your repository.</td>
+  <td>Download current version</td>
 </tr>
 <tr>
   <td>Pull request</td>
@@ -57,11 +57,7 @@ In order to be operating system, IDE and language agnostic, this document focuss
 </tr>
 <tr>
   <td>Commit</td>
-<<<<<<< HEAD
   <td>Is used when you want to save that version of the file to then be pushed to github.</td>
-=======
-  <td>Committing a change in a document</td>
->>>>>>> 55633fba092bf92b1672a7e2c2a8ced0aba6e7c4
 </tr>
 <tr>
   <td>Diff</td>
@@ -77,11 +73,7 @@ In order to be operating system, IDE and language agnostic, this document focuss
 </tr>
 <tr>
   <td>Fork</td>
-<<<<<<< HEAD
-  <td>Linking the  repository to another user</td>
-=======
   <td>Creates a copy of a persons repo</td>
->>>>>>> 55633fba092bf92b1672a7e2c2a8ced0aba6e7c4
 </tr>
 <tr>
   <td>History / Commit log</td>
