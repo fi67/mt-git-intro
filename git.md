@@ -57,7 +57,7 @@ In order to be operating system, IDE and language agnostic, this document focuss
 </tr>
 <tr>
   <td>Commit</td>
-  <td>Definition</td>
+  <td>Committing a change in a document</td>
 </tr>
 <tr>
   <td>Diff</td>
@@ -73,7 +73,7 @@ In order to be operating system, IDE and language agnostic, this document focuss
 </tr>
 <tr>
   <td>Fork</td>
-  <td>Definition</td>
+  <td>Creates a copy of a persons repo</td>
 </tr>
 <tr>
   <td>History / Commit log</td>
@@ -85,7 +85,7 @@ In order to be operating system, IDE and language agnostic, this document focuss
 </tr>
 <tr>
   <td>origin</td>
-  <td>Definition</td>
+  <td>Default name for GitHub</td>
 </tr>
 <tr>
   <td>master</td>
@@ -339,7 +339,7 @@ Explore the many other features of the web-based platforms (links can be found a
 
 ## Help improve this document
 
-Have u spoted a typo, smelling eror, inaccuracy or think this document is missing a key aspect of Git? Read on to find out how you can fix and contribute, using Git of course!
+Have u spoted a typo, spelling eror, inaccuracy or think this document is missing a key aspect of Git? Read on to find out how you can fix and contribute, using Git of course!
 
 
 ### Forking projects
